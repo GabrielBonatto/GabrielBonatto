@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @GabrielBonatto
-- 👀 I’m interested in: Development
-- 🌱 I’m currently learning: JAVA
-- 💞️ I’m looking to collaborate on: Java and JS 
+- 👋 Hi, I’m @Gabriel
 - 📫 How to reach me: Not yet  :)
 
 <!---
